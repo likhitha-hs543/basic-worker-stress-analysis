@@ -269,6 +269,7 @@ worker-stress-analysis/
 │
 ├── 📚 Documentation
 │   ├── README.md                   # This file
+│   ├── LIBRARIES_AND_FUNCTIONS.md  # Comprehensive library & function guide
 │   ├── INSTALL.md                  # Detailed installation guide
 │   ├── SETUP_GUIDE.md              # Step-by-step setup
 │   ├── ARCHITECTURE.md             # System architecture
@@ -652,6 +653,7 @@ def clear_old_data(self, days=7):  # Change 7 to desired days
 | Document | Purpose | When to Read |
 |----------|---------|--------------|
 | **README.md** | Overview, quick start | First read |
+| **LIBRARIES_AND_FUNCTIONS.md** | Detailed explanation of all libraries & functions | Understanding code/libraries |
 | **INSTALL.md** | Detailed installation | Setup issues |
 | **SETUP_GUIDE.md** | Step-by-step guide | First-time setup |
 | **ARCHITECTURE.md** | System design | Understanding codebase |
